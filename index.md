@@ -1,17 +1,17 @@
 # Proyectos
 
-  *Web Page Creaciones Gael
-  *RestApi productos 
+  * Web Page Creaciones Gael
+  * RestApi productos 
   
   
 ## Tecnologías
 
-  *Python
-  *Java
-  *HTML
-  *CSS
-  *JavaScript
+  * Python
+  * Java
+  * HTML
+  * CSS
+  * JavaScript
   
 ### Informacion de contacto
 
-  *andresborbor2016@outlook.es
+  * andresborbor2016@outlook.es
