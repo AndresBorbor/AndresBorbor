@@ -13,4 +13,4 @@
   
 # Informacion de contacto
 
-  * andresborbor2016@outlook.es
+  * adborbor@espol.edu.ec
