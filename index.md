@@ -1,8 +1,7 @@
 # Proyectos
 
   * Web Page Creaciones Gael
-  * RestApi productos 
-  
+  * RestApi productos del negocio Creaciones Gael
   
 ## Tecnologías
 
