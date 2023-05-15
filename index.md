@@ -1,6 +1,6 @@
 # Proyectos
 
-  * Web Page Creaciones Gael -> <a href='https://creacionesgael.netlify.app'>creacionesgael</a>
+  * Web Page Creaciones Gael -> <a href='https://creacionesgael.netlify.app'>Creaciones Gael</a>
   * RestApi productos del negocio Creaciones Gael
   
 ## Tecnologías
