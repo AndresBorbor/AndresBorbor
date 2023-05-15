@@ -2,8 +2,8 @@
 
   * Web Page Creaciones Gael -> <a href='https://creacionesgael.netlify.app' target="_blank" >Creaciones Gael</a>
   * RestApi productos del negocio Creaciones Gael
-  
-## Tecnologías
+  * Aplicación CRUD para subida de productos
+# Tecnologías
 
   * Python
   * Java
@@ -11,6 +11,6 @@
   * CSS
   * JavaScript
   
-### Informacion de contacto
+# Informacion de contacto
 
   * andresborbor2016@outlook.es
