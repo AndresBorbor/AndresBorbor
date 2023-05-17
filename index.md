@@ -9,7 +9,8 @@
 	<span> JavaScript </span>
 	<span> Python </span>
 	<span> MySQL </span>
+	<span> Java </span>
   </div>
   
-# Informacion de contacto
+# Información de contacto
   * adborbor@espol.edu.ec
