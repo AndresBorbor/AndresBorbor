@@ -1,7 +1,6 @@
 # Proyectos
  
   |Creaciones Gael      | [Web Page Creaciones Gael](https://creacionesgael.netlify.app)      | Web page for creaciones gael  |
-  |Creaciones Gael      | <a href='https://creacionesgael.netlify.app' target='_blank'> a</a>     | Web page for creaciones gael  |
   
 # Tecnologías 
   <div style="display:flex; flex-direction: row; justify-content:space-evenly; width:100%;" >
