@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# Hola! soy Andrés Borbor 👋
 
 - 🔭 Actualmente soy estudiante de 5to semestre de la carrera de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral.
 - 🌱 En este momento me encuentro aprendiendo diferentes tecnologías enfocadas tanto al frontend como backend
