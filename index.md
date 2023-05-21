@@ -8,7 +8,7 @@
 | Nombre      | Repositorio |
 | :---        | :----: |
 | Creaciones Gael       | [Creaciones Gael](https://github.com/AndresBorbor/AndresBorbor/webpagecreacionesgael)|
-| Proyecto1       | [Proyecto1](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto1)|
+| Curriculum       | [Curriculum](https://github.com/AndresBorbor/curriculum)|
 | Proyecto2      |[Proyecto2](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto2) |
 | Proyecto2     |[Proyecto3](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto3) |
 # Tecnologías
