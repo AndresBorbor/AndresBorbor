@@ -5,12 +5,12 @@
 
 # Proyectos
 
-| Nombre      | Repositorio |
-| :---        | :----: |
-| Creaciones Gael       | [Creaciones Gael](https://github.com/AndresBorbor/AndresBorbor/webpagecreacionesgael) |
-| Curriculum       | [Curriculum](https://github.com/AndresBorbor/curriculum) |
-| Proyecto2      | [Proyecto2](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto2) |
-| Proyecto2     | [Proyecto3](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto3) |
+| Nombre     | Repositorio                                                                   |
+|:-----------|-------------------------------------------------------------------------------|
+| Curriculum | [Curriculum](https://github.com/AndresBorbor/curriculum)                      |
+| Proyecto 2 | [Proyecto2](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto2) |
+| Proyecto 3 | [Proyecto3](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto3) |
+| Proyecto 4 | [Proyecto4](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto4) |
 # Tecnologías
 
   ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
