@@ -7,7 +7,7 @@
 
 | Nombre     | Repositorio                                                                   |
 |:-----------|-------------------------------------------------------------------------------|
-| Curriculum | [Curriculum](https://github.com/AndresBorbor/curriculum)                      |
+| Curriculum | [Curriculum](https://andresborbor.github.io/curriculum)                      |
 | LandingPage | [LandingPage](https://andresborbor.github.io/LandingPage) |
 | Calculadora | [Calculadora](https://andresborbor.github.io/calculadora/) |
 | Dashboard | [Dashboard](https://andresborbor.github.io/dashboard/admin.html) |
