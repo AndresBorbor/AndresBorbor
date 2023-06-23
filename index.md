@@ -8,7 +8,7 @@
 | Nombre     | Repositorio                                                                   |
 |:-----------|-------------------------------------------------------------------------------|
 | Curriculum | [Curriculum](https://github.com/AndresBorbor/curriculum)                      |
-| Proyecto 2 | [Proyecto2](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto2) |
+| LandingPage | [LandingPage](https://andresborbor.github.io/LandingPage) |
 | Proyecto 3 | [Proyecto3](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto3) |
 | Proyecto 4 | [Proyecto4](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto4) |
 
