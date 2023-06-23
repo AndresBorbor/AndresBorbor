@@ -9,8 +9,8 @@
 |:-----------|-------------------------------------------------------------------------------|
 | Curriculum | [Curriculum](https://github.com/AndresBorbor/curriculum)                      |
 | LandingPage | [LandingPage](https://andresborbor.github.io/LandingPage) |
-| Proyecto 3 | [Proyecto3](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto3) |
-| Proyecto 4 | [Proyecto4](https://github.com/AndresBorbor/AndresBorbor/tree/main/proyecto4) |
+| Calculadora | [Calculadora](https://andresborbor.github.io/calculadora/) |
+| Dashboard | [Dashboard](https://andresborbor.github.io/dashboard/admin.html) |
 
 # Tecnologías
 
